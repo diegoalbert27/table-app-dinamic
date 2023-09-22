@@ -2,7 +2,7 @@
 
 Aplicacion de react con login de usuario y obtencion de usuarios desde dummyJSON
 
-[Imagen App](docs/app.png)
+![Imagen App](docs/app.png)
 
 Tecnologias:
 - [React](https://es.react.dev/)
@@ -12,7 +12,7 @@ Tecnologias:
 
 Instalacion:
 ```shell
-npm i && npm run dev
+git clone https://github.com/diegoalbert27/table-app-dinamic.git
 ```
 
 ```shell
