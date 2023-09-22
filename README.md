@@ -1,8 +1,22 @@
-# React + Vite
+# TABLE APP DINAMIC
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicacion de react con login de usuario y obtencion de usuarios desde dummyJSON
 
-Currently, two official plugins are available:
+[Imagen App](docs/app.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tecnologias:
+- [React](https://es.react.dev/)
+- [Ant Design](https://ant.design/components/overview/)
+- [React Query](https://tanstack.com/query/v3/docs/react/overview)
+- [DummyJSON](https://dummyjson.com/)
+
+Instalacion:
+```shell
+npm i && npm run dev
+```
+
+```shell
+npm i && npm run dev
+```
+
+Hecho con ❤️ y Javascript
